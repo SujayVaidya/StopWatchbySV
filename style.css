@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+  background-image:url(https://img.freepik.com/free-vector/space-background-with-stars-vector-illustration_97886-319.jpg?w=2000)
+;
+}
+.container{
+    margin: 100px auto;
+    text-align: center;
+}
+h1{
+    font-size: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+p{
+    font-size: 5em;
+    color: greenyellow;
+}
+button{
+    border: none;
+    padding: 18px 10px;
+    font-size: 1.2em;
+    width: 180px;
+    margin: auto 10px;
+}
+button:hover{
+   cursor: pointer;
+   background-color:#65c7f7;
+   color: #fff; 
+   transition: 0.4s;
+   border: none;
+}
